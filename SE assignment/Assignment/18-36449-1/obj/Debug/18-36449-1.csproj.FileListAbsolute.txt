@@ -1,0 +1,18 @@
+C:\Users\student\Desktop\18-36449-1\18-36449-1\bin\Debug\18-36449-1.exe.config
+C:\Users\student\Desktop\18-36449-1\18-36449-1\bin\Debug\18-36449-1.exe
+C:\Users\student\Desktop\18-36449-1\18-36449-1\bin\Debug\18-36449-1.pdb
+C:\Users\student\Desktop\18-36449-1\18-36449-1\bin\Debug\ClassLibrary.dll
+C:\Users\student\Desktop\18-36449-1\18-36449-1\bin\Debug\ClassLibrary.pdb
+C:\Users\student\Desktop\18-36449-1\18-36449-1\obj\Debug\18-36449-1.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\18-36449-1\18-36449-1\obj\Debug\18-36449-1.exe
+C:\Users\student\Desktop\18-36449-1\18-36449-1\obj\Debug\18-36449-1.pdb
+F:\class\SMSTR 6\C#\Lab-Mid\18-36449-1\bin\Debug\18-36449-1.exe.config
+F:\class\SMSTR 6\C#\Lab-Mid\18-36449-1\bin\Debug\18-36449-1.exe
+F:\class\SMSTR 6\C#\Lab-Mid\18-36449-1\bin\Debug\18-36449-1.pdb
+F:\class\SMSTR 6\C#\Lab-Mid\18-36449-1\bin\Debug\ClassLibrary.dll
+F:\class\SMSTR 6\C#\Lab-Mid\18-36449-1\bin\Debug\ClassLibrary.pdb
+F:\class\SMSTR 6\C#\Lab-Mid\18-36449-1\obj\Debug\18-36449-1.csprojAssemblyReference.cache
+F:\class\SMSTR 6\C#\Lab-Mid\18-36449-1\obj\Debug\18-36449-1.csproj.CoreCompileInputs.cache
+F:\class\SMSTR 6\C#\Lab-Mid\18-36449-1\obj\Debug\18-36449-1.csproj.CopyComplete
+F:\class\SMSTR 6\C#\Lab-Mid\18-36449-1\obj\Debug\18-36449-1.exe
+F:\class\SMSTR 6\C#\Lab-Mid\18-36449-1\obj\Debug\18-36449-1.pdb
