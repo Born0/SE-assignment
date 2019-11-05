@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ClassLibrary
 {
@@ -16,11 +16,8 @@ namespace ClassLibrary
 
         public string CName { get => cName; set => cName = value; }
 
-        public virtual void AddTopic(params string[] a)
-        {
-
-        }
-
+        public abstract  void AddTopic(params string[] a);
+       
         public virtual void Print()
         {
             Console.WriteLine("   Course:"+cName);
